@@ -1,0 +1,1 @@
+route_short_name,route_long_name,trip_id,first_departure_time,last_arrival_time,scheduled_duration_min,shape_path_km,scheduled_speed_kmh,speed_quality_flag

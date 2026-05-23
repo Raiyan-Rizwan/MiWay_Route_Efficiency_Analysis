@@ -1,0 +1,5 @@
+time_period,trips,avg_speed_kmh,median_speed_kmh,avg_duration_min
+AM peak,989,21.89,20.33,46.89
+PM peak,1269,20.08,18.77,51.28
+late evening,561,27.11,26.26,35.72
+midday/other,2688,22.44,21.46,45.04
