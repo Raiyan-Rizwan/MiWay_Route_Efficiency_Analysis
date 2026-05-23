@@ -1,0 +1,70 @@
+route_id,unique_stops,route_short_name,route_long_name
+1,127,1,Dundas
+2,55,2,Hurontario
+3,100,3,Bloor
+4,103,4,North Service Road
+5,90,5,Dixie
+6,85,6,Credit Woodlands
+7,108,7,Airport
+8,90,8,Cawthra
+9,87,9,Rathburn
+10,142,10,Bristol
+11,31,11,Westwood
+13,101,13,Glen Erin
+14,88,14,Lorne Park
+15,77,15,Drew
+16,71,16,Malton
+17,45,17,Hurontario
+18,66,18,Derry
+20,75,20,Rathburn
+22,30,22,Finch
+23,88,23,Lakeshore
+24,90,24,Northwest
+25,25,25,Traders Loop
+26,138,26,Burnhamthorpe
+28,54,28,Confederation
+29,96,29,Park Royal
+30,84,30,Rexdale
+31,45,31,Ogden
+35,115,35,Eglinton
+36,75,36,Ridgeway
+38,155,38,Creditview
+39,160,39,Britannia
+42,93,42,Derry
+43,136,43,Matheson
+44,94,44,Mississauga Road
+45,116,45,Winston Churchill
+46,68,46,Tenth Line
+48,58,48,Erin Mills
+49,49,49,McDowell
+51,81,51,Tomken
+53,80,53,Kennedy
+57,86,57,Courtneypark
+61,67,61,Mavis
+66,61,66,McLaughlin
+68,56,68,Terry Fox
+70,40,70,Keaton
+71,40,71,Sheridan
+73,33,73,Kamato
+74,42,74,Explorer
+90,63,90,Terragar-Copenhagen Loop
+101,33,101,Dundas Express
+103,35,103,Hurontario Express
+107,44,107,Malton Express
+108,50,108,Financial Express
+109,39,109,Meadowvale Express
+110,18,110,University Express
+126,28,126,Burnhamthorpe Express
+135,35,135,Eglinton Express
+302,33,302,Philip Pocock SS
+304,23,304,Father Goetz SS
+306,28,306,Streetsville SS
+307,67,307,Philip Pocock SS
+312,47,312,Glenforest SS
+313,53,313,Streetsville SS
+314,30,314,Rick Hansen SS
+315,29,315,Rick Hansen SS
+321,30,321,Stephen Lewis SS
+501,3,501,Carassauga A
+502,4,502,Carassauga B
+503,4,503,Carassauga C

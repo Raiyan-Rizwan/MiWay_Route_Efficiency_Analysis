@@ -1,0 +1,529 @@
+route_id,route_short_name,route_long_name,service_period,trips
+1,1,Dundas,early morning,22
+1,1,Dundas,AM peak,24
+1,1,Dundas,midday,48
+1,1,Dundas,PM peak,32
+1,1,Dundas,evening,24
+1,1,Dundas,late night,22
+1,1,Dundas,other,0
+1,1,Dundas,unknown,0
+2,2,Hurontario,early morning,27
+2,2,Hurontario,AM peak,34
+2,2,Hurontario,midday,65
+2,2,Hurontario,PM peak,50
+2,2,Hurontario,evening,30
+2,2,Hurontario,late night,26
+2,2,Hurontario,other,0
+2,2,Hurontario,unknown,0
+3,3,Bloor,early morning,22
+3,3,Bloor,AM peak,31
+3,3,Bloor,midday,52
+3,3,Bloor,PM peak,39
+3,3,Bloor,evening,19
+3,3,Bloor,late night,17
+3,3,Bloor,other,0
+3,3,Bloor,unknown,0
+4,4,North Service Road,early morning,6
+4,4,North Service Road,AM peak,9
+4,4,North Service Road,midday,18
+4,4,North Service Road,PM peak,13
+4,4,North Service Road,evening,6
+4,4,North Service Road,late night,3
+4,4,North Service Road,other,0
+4,4,North Service Road,unknown,0
+5,5,Dixie,early morning,12
+5,5,Dixie,AM peak,24
+5,5,Dixie,midday,49
+5,5,Dixie,PM peak,30
+5,5,Dixie,evening,13
+5,5,Dixie,late night,13
+5,5,Dixie,other,0
+5,5,Dixie,unknown,0
+6,6,Credit Woodlands,early morning,6
+6,6,Credit Woodlands,AM peak,13
+6,6,Credit Woodlands,midday,26
+6,6,Credit Woodlands,PM peak,20
+6,6,Credit Woodlands,evening,13
+6,6,Credit Woodlands,late night,15
+6,6,Credit Woodlands,other,0
+6,6,Credit Woodlands,unknown,0
+7,7,Airport,early morning,17
+7,7,Airport,AM peak,15
+7,7,Airport,midday,29
+7,7,Airport,PM peak,19
+7,7,Airport,evening,14
+7,7,Airport,late night,14
+7,7,Airport,other,0
+7,7,Airport,unknown,0
+8,8,Cawthra,early morning,4
+8,8,Cawthra,AM peak,13
+8,8,Cawthra,midday,26
+8,8,Cawthra,PM peak,13
+8,8,Cawthra,evening,9
+8,8,Cawthra,late night,6
+8,8,Cawthra,other,0
+8,8,Cawthra,unknown,0
+9,9,Rathburn,early morning,9
+9,9,Rathburn,AM peak,15
+9,9,Rathburn,midday,27
+9,9,Rathburn,PM peak,18
+9,9,Rathburn,evening,13
+9,9,Rathburn,late night,16
+9,9,Rathburn,other,0
+9,9,Rathburn,unknown,0
+10,10,Bristol,early morning,7
+10,10,Bristol,AM peak,17
+10,10,Bristol,midday,30
+10,10,Bristol,PM peak,21
+10,10,Bristol,evening,13
+10,10,Bristol,late night,14
+10,10,Bristol,other,0
+10,10,Bristol,unknown,0
+11,11,Westwood,early morning,11
+11,11,Westwood,AM peak,31
+11,11,Westwood,midday,49
+11,11,Westwood,PM peak,36
+11,11,Westwood,evening,20
+11,11,Westwood,late night,25
+11,11,Westwood,other,0
+11,11,Westwood,unknown,0
+13,13,Glen Erin,early morning,9
+13,13,Glen Erin,AM peak,17
+13,13,Glen Erin,midday,30
+13,13,Glen Erin,PM peak,20
+13,13,Glen Erin,evening,14
+13,13,Glen Erin,late night,12
+13,13,Glen Erin,other,0
+13,13,Glen Erin,unknown,0
+14,14,Lorne Park,early morning,6
+14,14,Lorne Park,AM peak,10
+14,14,Lorne Park,midday,16
+14,14,Lorne Park,PM peak,11
+14,14,Lorne Park,evening,7
+14,14,Lorne Park,late night,4
+14,14,Lorne Park,other,0
+14,14,Lorne Park,unknown,0
+15,15,Drew,early morning,6
+15,15,Drew,AM peak,11
+15,15,Drew,midday,12
+15,15,Drew,PM peak,15
+15,15,Drew,evening,12
+15,15,Drew,late night,9
+15,15,Drew,other,0
+15,15,Drew,unknown,0
+16,16,Malton,early morning,3
+16,16,Malton,AM peak,9
+16,16,Malton,midday,17
+16,16,Malton,PM peak,11
+16,16,Malton,evening,7
+16,16,Malton,late night,3
+16,16,Malton,other,0
+16,16,Malton,unknown,0
+17,17,Hurontario,early morning,17
+17,17,Hurontario,AM peak,18
+17,17,Hurontario,midday,36
+17,17,Hurontario,PM peak,33
+17,17,Hurontario,evening,25
+17,17,Hurontario,late night,17
+17,17,Hurontario,other,0
+17,17,Hurontario,unknown,0
+18,18,Derry,early morning,8
+18,18,Derry,AM peak,24
+18,18,Derry,midday,23
+18,18,Derry,PM peak,32
+18,18,Derry,evening,3
+18,18,Derry,late night,0
+18,18,Derry,other,0
+18,18,Derry,unknown,0
+20,20,Rathburn,early morning,8
+20,20,Rathburn,AM peak,17
+20,20,Rathburn,midday,33
+20,20,Rathburn,PM peak,22
+20,20,Rathburn,evening,13
+20,20,Rathburn,late night,11
+20,20,Rathburn,other,0
+20,20,Rathburn,unknown,0
+22,22,Finch,early morning,6
+22,22,Finch,AM peak,15
+22,22,Finch,midday,29
+22,22,Finch,PM peak,18
+22,22,Finch,evening,10
+22,22,Finch,late night,10
+22,22,Finch,other,0
+22,22,Finch,unknown,0
+23,23,Lakeshore,early morning,8
+23,23,Lakeshore,AM peak,16
+23,23,Lakeshore,midday,29
+23,23,Lakeshore,PM peak,17
+23,23,Lakeshore,evening,12
+23,23,Lakeshore,late night,14
+23,23,Lakeshore,other,0
+23,23,Lakeshore,unknown,0
+24,24,Northwest,early morning,4
+24,24,Northwest,AM peak,10
+24,24,Northwest,midday,10
+24,24,Northwest,PM peak,12
+24,24,Northwest,evening,0
+24,24,Northwest,late night,0
+24,24,Northwest,other,0
+24,24,Northwest,unknown,0
+25,25,Traders Loop,early morning,0
+25,25,Traders Loop,AM peak,8
+25,25,Traders Loop,midday,5
+25,25,Traders Loop,PM peak,8
+25,25,Traders Loop,evening,0
+25,25,Traders Loop,late night,0
+25,25,Traders Loop,other,0
+25,25,Traders Loop,unknown,0
+26,26,Burnhamthorpe,early morning,14
+26,26,Burnhamthorpe,AM peak,25
+26,26,Burnhamthorpe,midday,50
+26,26,Burnhamthorpe,PM peak,32
+26,26,Burnhamthorpe,evening,17
+26,26,Burnhamthorpe,late night,18
+26,26,Burnhamthorpe,other,0
+26,26,Burnhamthorpe,unknown,0
+28,28,Confederation,early morning,9
+28,28,Confederation,AM peak,25
+28,28,Confederation,midday,38
+28,28,Confederation,PM peak,27
+28,28,Confederation,evening,18
+28,28,Confederation,late night,12
+28,28,Confederation,other,0
+28,28,Confederation,unknown,0
+29,29,Park Royal,early morning,8
+29,29,Park Royal,AM peak,11
+29,29,Park Royal,midday,20
+29,29,Park Royal,PM peak,12
+29,29,Park Royal,evening,9
+29,29,Park Royal,late night,8
+29,29,Park Royal,other,0
+29,29,Park Royal,unknown,0
+30,30,Rexdale,early morning,4
+30,30,Rexdale,AM peak,11
+30,30,Rexdale,midday,12
+30,30,Rexdale,PM peak,8
+30,30,Rexdale,evening,8
+30,30,Rexdale,late night,5
+30,30,Rexdale,other,0
+30,30,Rexdale,unknown,0
+31,31,Ogden,early morning,9
+31,31,Ogden,AM peak,15
+31,31,Ogden,midday,24
+31,31,Ogden,PM peak,24
+31,31,Ogden,evening,12
+31,31,Ogden,late night,16
+31,31,Ogden,other,0
+31,31,Ogden,unknown,0
+35,35,Eglinton,early morning,16
+35,35,Eglinton,AM peak,24
+35,35,Eglinton,midday,50
+35,35,Eglinton,PM peak,32
+35,35,Eglinton,evening,22
+35,35,Eglinton,late night,15
+35,35,Eglinton,other,0
+35,35,Eglinton,unknown,0
+36,36,Ridgeway,early morning,2
+36,36,Ridgeway,AM peak,9
+36,36,Ridgeway,midday,19
+36,36,Ridgeway,PM peak,13
+36,36,Ridgeway,evening,8
+36,36,Ridgeway,late night,15
+36,36,Ridgeway,other,0
+36,36,Ridgeway,unknown,0
+38,38,Creditview,early morning,7
+38,38,Creditview,AM peak,13
+38,38,Creditview,midday,23
+38,38,Creditview,PM peak,16
+38,38,Creditview,evening,10
+38,38,Creditview,late night,8
+38,38,Creditview,other,0
+38,38,Creditview,unknown,0
+39,39,Britannia,early morning,10
+39,39,Britannia,AM peak,17
+39,39,Britannia,midday,23
+39,39,Britannia,PM peak,24
+39,39,Britannia,evening,11
+39,39,Britannia,late night,11
+39,39,Britannia,other,0
+39,39,Britannia,unknown,0
+42,42,Derry,early morning,13
+42,42,Derry,AM peak,24
+42,42,Derry,midday,48
+42,42,Derry,PM peak,32
+42,42,Derry,evening,24
+42,42,Derry,late night,30
+42,42,Derry,other,0
+42,42,Derry,unknown,0
+43,43,Matheson,early morning,2
+43,43,Matheson,AM peak,5
+43,43,Matheson,midday,3
+43,43,Matheson,PM peak,6
+43,43,Matheson,evening,2
+43,43,Matheson,late night,0
+43,43,Matheson,other,0
+43,43,Matheson,unknown,0
+44,44,Mississauga Road,early morning,6
+44,44,Mississauga Road,AM peak,17
+44,44,Mississauga Road,midday,32
+44,44,Mississauga Road,PM peak,24
+44,44,Mississauga Road,evening,13
+44,44,Mississauga Road,late night,10
+44,44,Mississauga Road,other,0
+44,44,Mississauga Road,unknown,0
+45,45,Winston Churchill,early morning,7
+45,45,Winston Churchill,AM peak,19
+45,45,Winston Churchill,midday,27
+45,45,Winston Churchill,PM peak,28
+45,45,Winston Churchill,evening,14
+45,45,Winston Churchill,late night,8
+45,45,Winston Churchill,other,0
+45,45,Winston Churchill,unknown,0
+46,46,Tenth Line,early morning,5
+46,46,Tenth Line,AM peak,10
+46,46,Tenth Line,midday,18
+46,46,Tenth Line,PM peak,10
+46,46,Tenth Line,evening,8
+46,46,Tenth Line,late night,11
+46,46,Tenth Line,other,0
+46,46,Tenth Line,unknown,0
+48,48,Erin Mills,early morning,7
+48,48,Erin Mills,AM peak,16
+48,48,Erin Mills,midday,27
+48,48,Erin Mills,PM peak,18
+48,48,Erin Mills,evening,9
+48,48,Erin Mills,late night,10
+48,48,Erin Mills,other,0
+48,48,Erin Mills,unknown,0
+49,49,McDowell,early morning,1
+49,49,McDowell,AM peak,17
+49,49,McDowell,midday,16
+49,49,McDowell,PM peak,14
+49,49,McDowell,evening,4
+49,49,McDowell,late night,0
+49,49,McDowell,other,0
+49,49,McDowell,unknown,0
+51,51,Tomken,early morning,12
+51,51,Tomken,AM peak,26
+51,51,Tomken,midday,35
+51,51,Tomken,PM peak,35
+51,51,Tomken,evening,11
+51,51,Tomken,late night,10
+51,51,Tomken,other,0
+51,51,Tomken,unknown,0
+53,53,Kennedy,early morning,6
+53,53,Kennedy,AM peak,16
+53,53,Kennedy,midday,24
+53,53,Kennedy,PM peak,23
+53,53,Kennedy,evening,7
+53,53,Kennedy,late night,7
+53,53,Kennedy,other,0
+53,53,Kennedy,unknown,0
+57,57,Courtneypark,early morning,13
+57,57,Courtneypark,AM peak,29
+57,57,Courtneypark,midday,36
+57,57,Courtneypark,PM peak,33
+57,57,Courtneypark,evening,5
+57,57,Courtneypark,late night,0
+57,57,Courtneypark,other,0
+57,57,Courtneypark,unknown,0
+61,61,Mavis,early morning,15
+61,61,Mavis,AM peak,26
+61,61,Mavis,midday,52
+61,61,Mavis,PM peak,35
+61,61,Mavis,evening,28
+61,61,Mavis,late night,33
+61,61,Mavis,other,0
+61,61,Mavis,unknown,0
+66,66,McLaughlin,early morning,13
+66,66,McLaughlin,AM peak,32
+66,66,McLaughlin,midday,63
+66,66,McLaughlin,PM peak,45
+66,66,McLaughlin,evening,26
+66,66,McLaughlin,late night,23
+66,66,McLaughlin,other,0
+66,66,McLaughlin,unknown,0
+68,68,Terry Fox,early morning,2
+68,68,Terry Fox,AM peak,5
+68,68,Terry Fox,midday,10
+68,68,Terry Fox,PM peak,6
+68,68,Terry Fox,evening,5
+68,68,Terry Fox,late night,6
+68,68,Terry Fox,other,0
+68,68,Terry Fox,unknown,0
+70,70,Keaton,early morning,0
+70,70,Keaton,AM peak,11
+70,70,Keaton,midday,4
+70,70,Keaton,PM peak,13
+70,70,Keaton,evening,0
+70,70,Keaton,late night,0
+70,70,Keaton,other,0
+70,70,Keaton,unknown,0
+71,71,Sheridan,early morning,0
+71,71,Sheridan,AM peak,3
+71,71,Sheridan,midday,0
+71,71,Sheridan,PM peak,5
+71,71,Sheridan,evening,0
+71,71,Sheridan,late night,0
+71,71,Sheridan,other,0
+71,71,Sheridan,unknown,0
+73,73,Kamato,early morning,2
+73,73,Kamato,AM peak,12
+73,73,Kamato,midday,4
+73,73,Kamato,PM peak,15
+73,73,Kamato,evening,1
+73,73,Kamato,late night,0
+73,73,Kamato,other,0
+73,73,Kamato,unknown,0
+74,74,Explorer,early morning,3
+74,74,Explorer,AM peak,8
+74,74,Explorer,midday,6
+74,74,Explorer,PM peak,11
+74,74,Explorer,evening,5
+74,74,Explorer,late night,0
+74,74,Explorer,other,0
+74,74,Explorer,unknown,0
+90,90,Terragar-Copenhagen Loop,early morning,6
+90,90,Terragar-Copenhagen Loop,AM peak,11
+90,90,Terragar-Copenhagen Loop,midday,17
+90,90,Terragar-Copenhagen Loop,PM peak,16
+90,90,Terragar-Copenhagen Loop,evening,8
+90,90,Terragar-Copenhagen Loop,late night,5
+90,90,Terragar-Copenhagen Loop,other,0
+90,90,Terragar-Copenhagen Loop,unknown,0
+101,101,Dundas Express,early morning,9
+101,101,Dundas Express,AM peak,24
+101,101,Dundas Express,midday,48
+101,101,Dundas Express,PM peak,30
+101,101,Dundas Express,evening,19
+101,101,Dundas Express,late night,7
+101,101,Dundas Express,other,0
+101,101,Dundas Express,unknown,0
+103,103,Hurontario Express,early morning,9
+103,103,Hurontario Express,AM peak,21
+103,103,Hurontario Express,midday,26
+103,103,Hurontario Express,PM peak,26
+103,103,Hurontario Express,evening,13
+103,103,Hurontario Express,late night,9
+103,103,Hurontario Express,other,0
+103,103,Hurontario Express,unknown,0
+107,107,Malton Express,early morning,8
+107,107,Malton Express,AM peak,25
+107,107,Malton Express,midday,48
+107,107,Malton Express,PM peak,40
+107,107,Malton Express,evening,18
+107,107,Malton Express,late night,8
+107,107,Malton Express,other,0
+107,107,Malton Express,unknown,0
+108,108,Financial Express,early morning,2
+108,108,Financial Express,AM peak,8
+108,108,Financial Express,midday,3
+108,108,Financial Express,PM peak,11
+108,108,Financial Express,evening,2
+108,108,Financial Express,late night,0
+108,108,Financial Express,other,0
+108,108,Financial Express,unknown,0
+109,109,Meadowvale Express,early morning,8
+109,109,Meadowvale Express,AM peak,29
+109,109,Meadowvale Express,midday,50
+109,109,Meadowvale Express,PM peak,42
+109,109,Meadowvale Express,evening,24
+109,109,Meadowvale Express,late night,9
+109,109,Meadowvale Express,other,0
+109,109,Meadowvale Express,unknown,0
+110,110,University Express,early morning,14
+110,110,University Express,AM peak,18
+110,110,University Express,midday,34
+110,110,University Express,PM peak,21
+110,110,University Express,evening,15
+110,110,University Express,late night,16
+110,110,University Express,other,0
+110,110,University Express,unknown,0
+126,126,Burnhamthorpe Express,early morning,0
+126,126,Burnhamthorpe Express,AM peak,14
+126,126,Burnhamthorpe Express,midday,10
+126,126,Burnhamthorpe Express,PM peak,24
+126,126,Burnhamthorpe Express,evening,1
+126,126,Burnhamthorpe Express,late night,0
+126,126,Burnhamthorpe Express,other,0
+126,126,Burnhamthorpe Express,unknown,0
+135,135,Eglinton Express,early morning,1
+135,135,Eglinton Express,AM peak,24
+135,135,Eglinton Express,midday,5
+135,135,Eglinton Express,PM peak,24
+135,135,Eglinton Express,evening,0
+135,135,Eglinton Express,late night,0
+135,135,Eglinton Express,other,0
+135,135,Eglinton Express,unknown,0
+302,302,Philip Pocock SS,early morning,0
+302,302,Philip Pocock SS,AM peak,0
+302,302,Philip Pocock SS,midday,2
+302,302,Philip Pocock SS,PM peak,0
+302,302,Philip Pocock SS,evening,0
+302,302,Philip Pocock SS,late night,0
+302,302,Philip Pocock SS,other,0
+302,302,Philip Pocock SS,unknown,0
+304,304,Father Goetz SS,early morning,0
+304,304,Father Goetz SS,AM peak,1
+304,304,Father Goetz SS,midday,0
+304,304,Father Goetz SS,PM peak,0
+304,304,Father Goetz SS,evening,0
+304,304,Father Goetz SS,late night,0
+304,304,Father Goetz SS,other,0
+304,304,Father Goetz SS,unknown,0
+306,306,Streetsville SS,early morning,0
+306,306,Streetsville SS,AM peak,0
+306,306,Streetsville SS,midday,1
+306,306,Streetsville SS,PM peak,0
+306,306,Streetsville SS,evening,0
+306,306,Streetsville SS,late night,0
+306,306,Streetsville SS,other,0
+306,306,Streetsville SS,unknown,0
+307,307,Philip Pocock SS,early morning,0
+307,307,Philip Pocock SS,AM peak,1
+307,307,Philip Pocock SS,midday,1
+307,307,Philip Pocock SS,PM peak,0
+307,307,Philip Pocock SS,evening,0
+307,307,Philip Pocock SS,late night,0
+307,307,Philip Pocock SS,other,0
+307,307,Philip Pocock SS,unknown,0
+312,312,Glenforest SS,early morning,0
+312,312,Glenforest SS,AM peak,1
+312,312,Glenforest SS,midday,1
+312,312,Glenforest SS,PM peak,0
+312,312,Glenforest SS,evening,0
+312,312,Glenforest SS,late night,0
+312,312,Glenforest SS,other,0
+312,312,Glenforest SS,unknown,0
+313,313,Streetsville SS,early morning,0
+313,313,Streetsville SS,AM peak,1
+313,313,Streetsville SS,midday,2
+313,313,Streetsville SS,PM peak,0
+313,313,Streetsville SS,evening,0
+313,313,Streetsville SS,late night,0
+313,313,Streetsville SS,other,0
+313,313,Streetsville SS,unknown,0
+314,314,Rick Hansen SS,early morning,0
+314,314,Rick Hansen SS,AM peak,1
+314,314,Rick Hansen SS,midday,0
+314,314,Rick Hansen SS,PM peak,1
+314,314,Rick Hansen SS,evening,0
+314,314,Rick Hansen SS,late night,0
+314,314,Rick Hansen SS,other,0
+314,314,Rick Hansen SS,unknown,0
+315,315,Rick Hansen SS,early morning,0
+315,315,Rick Hansen SS,AM peak,1
+315,315,Rick Hansen SS,midday,0
+315,315,Rick Hansen SS,PM peak,2
+315,315,Rick Hansen SS,evening,0
+315,315,Rick Hansen SS,late night,0
+315,315,Rick Hansen SS,other,0
+315,315,Rick Hansen SS,unknown,0
+321,321,Stephen Lewis SS,early morning,0
+321,321,Stephen Lewis SS,AM peak,2
+321,321,Stephen Lewis SS,midday,2
+321,321,Stephen Lewis SS,PM peak,1
+321,321,Stephen Lewis SS,evening,0
+321,321,Stephen Lewis SS,late night,0
+321,321,Stephen Lewis SS,other,0
+321,321,Stephen Lewis SS,unknown,0
